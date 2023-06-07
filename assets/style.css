@@ -1,0 +1,17 @@
+:root {
+    --btn-bg:#1E6F9F;
+    --btn-bg-inacitve:#808080;
+    --title-color:#FFFFFF;
+    --subtitle-color:#F2F2F2;
+    --bg-color:#1E1E1E;
+    --header-color:#000000;
+    --error-color:#E25858;
+    --text-default-size:14px;
+    --text-title-size:20px;
+}
+
+body,html {
+    font-family: 'Inter';
+    color: var(--subtitle-color);
+    font-size: var(--text-default-size);
+}
